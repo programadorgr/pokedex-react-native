@@ -6,6 +6,8 @@ La aplicación pokedex le permite visualizar todos los pokemons en un solo lugar
 
 # 📱 Capturas de pantalla de la aplicación
 
+![Calculator app react native 0](./docs/PokedexApp_React_Native_animated.gif)
+
 ![Calculator app react native 1](./docs/PokedexApp_React_Native%20(1).png)
 
 ![Calculator app react native 2](./docs/PokedexApp_React_Native%20(2).png)
@@ -15,6 +17,8 @@ La aplicación pokedex le permite visualizar todos los pokemons en un solo lugar
 ![Calculator app react native 4](./docs/PokedexApp_React_Native%20(4).png)
 
 ![Calculator app react native 5](./docs/PokedexApp_React_Native%20(5).png)
+
+![Calculator app react native 6](./docs/PokedexApp_React_Native%20(6).png)
 
 # Primeros pasos
 
